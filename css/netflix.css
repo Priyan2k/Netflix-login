@@ -1,0 +1,72 @@
+.header_bar{
+    display: flex;
+    padding: 20px;
+}
+.header_dropbox{
+    padding-left: 900px;
+    
+
+}
+.header_logo{
+    padding-left: 50px;
+}
+.header_signin{
+    padding-left: 50px;
+    
+}
+.body_elements{
+    margin-top: 100px;
+    text-align: center;
+}
+body{
+    background: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0.5) 0,
+        rgba(0, 0, 0, 0) 100%
+      ), url("../images/netflix.jpg");
+    background-size: cover;
+    
+}
+.text1{
+    font-size: 30px;
+    color: white;
+}
+.text2{
+    font-size: 20px;
+    color:white;
+}
+.text3{
+    font-size: 20px;
+    color: white;
+}
+.search{
+    width: 500px;
+    height: 40px;
+    font-size: x-large;
+}
+.get_started{
+    height: 45px;
+    font-size: x-large;
+    background-color: red;
+    border: none;
+    color: white;
+    cursor: pointer;
+    
+}
+.signin{
+    background-color: red;
+    color: white;
+    height: 40px;
+    width: 70px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.dropbox{
+    height: 40px;
+    width: 90px;
+    background-color:rgba(0,0,0,.75);
+    color: white;
+    border-color: white;
+}
+
